@@ -1,3 +1,6 @@
+Designed a to-do list React app that allows users to add, edit, and delete tasks they want to work on, and also mark tasks as complete without deleting them.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
